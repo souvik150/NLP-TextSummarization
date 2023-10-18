@@ -5,7 +5,11 @@ Algorithms used :-
 * Cosine Similarity
 * Pagerank
 
-Tools used :-
+External Libraries :-
 * Spacy
 * NLTK
 * BeautifulSoup
+* BERT
+* Sumy
+* Pysummarization
+
